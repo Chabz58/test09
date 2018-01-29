@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "test09",
+    "description": "This project is really great.",
+    "slug": "test09",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Fifty8Studios-Logo.png",
+    "splash": {
+      "image": "./assets/Fifty8Studios-Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
